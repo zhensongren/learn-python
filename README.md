@@ -17,3 +17,4 @@ A collection of jupyter notebooks to practice and learn pythonic codes and get t
 4. Coding Questions for Data Scientist. https://www.techlent.net/user/Python39
        
 
+5. https://realpython.com/python-data-structures/
